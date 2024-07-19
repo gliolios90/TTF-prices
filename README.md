@@ -1,2 +1,2 @@
 # TTF-prices
-Histiric gas prices in Europe
+Historic gas prices in Europe
